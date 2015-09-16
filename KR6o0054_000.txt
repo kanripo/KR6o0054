@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 辟支佛因緣論
+#+DATE: 2015-08-30 21:00:10.930476
+#+PROPERTY: JUAN 0
